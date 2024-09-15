@@ -1,5 +1,7 @@
 # 💫 Darud3
-**`Cyber Schizo(Developer/Photographer/Gamer)`**
+
+**`Cyber Curiosity(Developer/Photographer/Gamer)`**
+
 I'm a starting data analyst and photographer, trying to be a best version of myself. My passion for IT and tech started when I was young and curious about how video games are working, as for photography - it is more of a chill hobby which brings happiness while capturing some aesthetic shots.
 
 # 💻 Languages and tools:
